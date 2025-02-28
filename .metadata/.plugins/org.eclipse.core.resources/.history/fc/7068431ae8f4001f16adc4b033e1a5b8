@@ -1,0 +1,11 @@
+package ch01.ex12;
+
+public class NameAgeExample {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}
